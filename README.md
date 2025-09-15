@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Soy un programador backend especializado en Java Spring Boot en su version 3 y actualmente me encuentro trabajando en un curso de aprendizaje de Angular.
+Soy un programador backend, principalmente uso Java y su framework Spring, tengo experiencia academica desarrollando en Laravel 10 y actualmente me encuentro estudiando un curso de aprendizaje de Angular.
 
 
 # 💻 Tecnologias:
